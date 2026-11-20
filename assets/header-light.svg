@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Khanh Trong Le — Cloud &amp; DevOps labs</title>
+<desc id="d">KhanhCloud header. Lê Trọng Khánh, Cloud and DevOps labs on AWS, Ho Chi Minh City, UTC+7. Lab delivery path, an architecture model: commit, check and build, publish to ECR, Argo CD sync, run on EKS.</desc>
+<style>
+.eyebrow{font:700 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:4px;fill:#575126}
+.name{font:800 86px 'Plus Jakarta Sans', Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;letter-spacing:-3.5px;fill:#252026}
+.sub{font:500 25px 'Plus Jakarta Sans', Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#6d626e}
+.cap{font:700 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;letter-spacing:3px;fill:#6d626e}
+.lbl{font:600 21px 'Plus Jakarta Sans', Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#252026}
+.num{font:700 17px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#575126}
+@media (prefers-reduced-motion: reduce){.runner{display:none}}
+</style>
+<rect width="1200" height="420" rx="28" fill="#f1eee5"/>
+<g transform="translate(64 58) scale(1.2)">
+<path fill="#E5F481" stroke="#252026" stroke-width="2.5" stroke-linejoin="round" d="M24 82C12 82 4 73 4 62C4 51 11 43 22 41C23 23 34 12 49 12C64 12 76 22 79 37C87 39 93 46 93 56C93 70 83 82 69 82Z"/>
+<path fill="#252026" d="M27 82L36 37H49L45 57L65 37H81L56 62L73 82H56L42 66L39 82Z"/>
+</g>
+<text x="204" y="96" class="eyebrow">KHANHCLOUD · CASE FILES</text>
+<text x="200" y="174" class="name">Khanh Trong Le.</text>
+<text x="204" y="220" class="sub">Lê Trọng Khánh · Cloud &amp; DevOps labs on AWS · Ho Chi Minh City, UTC+7</text>
+<line x1="64" y1="262" x2="1136" y2="262" stroke="#d0c8d1" stroke-width="2"/>
+<text x="64" y="300" class="cap">LAB DELIVERY PATH · ARCHITECTURE MODEL</text>
+<line x1="136" y1="334" x2="1064" y2="334" stroke="#252026" stroke-width="3"/>
+<circle cx="136" cy="334" r="11" fill="#f1eee5" stroke="#252026" stroke-width="3"/><text x="136" y="382" text-anchor="middle" class="lbl"><tspan class="num">01</tspan> Commit</text><circle cx="368" cy="334" r="11" fill="#f1eee5" stroke="#252026" stroke-width="3"/><text x="368" y="382" text-anchor="middle" class="lbl"><tspan class="num">02</tspan> Check &amp; build</text><circle cx="600" cy="334" r="11" fill="#f1eee5" stroke="#252026" stroke-width="3"/><text x="600" y="382" text-anchor="middle" class="lbl"><tspan class="num">03</tspan> Publish to ECR</text><circle cx="832" cy="334" r="11" fill="#f1eee5" stroke="#252026" stroke-width="3"/><text x="832" y="382" text-anchor="middle" class="lbl"><tspan class="num">04</tspan> Argo CD sync</text><circle cx="1064" cy="334" r="11" fill="#f1eee5" stroke="#252026" stroke-width="3"/><text x="1064" y="382" text-anchor="middle" class="lbl"><tspan class="num">05</tspan> Run on EKS</text>
+<g class="runner"><circle r="8" fill="#E5F481" stroke="#252026" stroke-width="3">
+<animateMotion dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.86;1" path="M136 334 H1064"/>
+</circle></g>
+</svg>
